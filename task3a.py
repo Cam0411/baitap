@@ -1,0 +1,7 @@
+a = int(input("nhap so a"))
+b = int(input("nhap so b"))
+c = int(input("nhap so c"))
+d = int(input("nhap so d"))
+solonnhat = max(a,b,c,d)
+sonhonhat = min(a,b,c,d)
+print(solonnhat,sonhonhat)
